@@ -27,7 +27,7 @@
 Звездный путь - Вундеркинды (Star Trek - Prodigy) - 1 - 0 (LostFilm)
 Звёздный путь - Дискавери (Star Trek - Discovery) - 4 - 13 (полный сезон) (LostFilm)
 Звездный путь - Нижние палубы (Star Trek - Lower Decks) - 1 - 10 (полный сезон) (LostFilm)
-Звездный путь - Пикар (Star Trek - Picard) - 2 - 6 (LostFilm)
+Звездный путь - Пикар (Star Trek - Picard) - 2 - 7 (LostFilm)
 Карнивал Роу (Carnival Row) - 1 - 8 (полный сезон) (Кубик в Кубе)
 Книга Бобы Фетта (The Book of Boba Fett) - 1 - 7 (полный сезон) (AlexFilm)
 Космические войска (Space Force) - 1 - 10 (полный сезон) (Кубик в Кубе)
@@ -54,7 +54,6 @@
 Путешественник - 48 часов в... (Travel Man - 48 Hours in...) - 10 - 4 (полный сезон) (Ozz)
 Разочарование (Disenchantment) - 3 - 30 (Кубик в Кубе)
 Ранчо (The Ranch) - 3 - 20 (полный сезон) (BaibaKo)
-Расследование сестры Бонифации (Sister Boniface Mysteries) - 1 - 1 (ViruseProject)
 Роковой патруль (Doom Patrol) - 3 - 10 (полный сезон) (Кубик в Кубе)
 Семейка миссис Браун (Mrs. Brown's Boys) - 3 - 27 + кино (39) (ViruseProject)
 Современная любовь (Modern Love) 1 - 0 (Кубик в Кубе)
@@ -120,6 +119,7 @@
 Мир дикoгo Зaпaдa (Westworld) - 1 - 5 (Кубик в Кубе)
 Олух (Baskets) - 1 - 1 (NewStudio)
 Час пик (Rush hour) - 1 - 13 (Jaskier)
+Расследование сестры Бонифации (Sister Boniface Mysteries) - 1 - 2 (ViruseProject)
 =========================================Русские=========================================
 Кухня - 4 - 13
 
