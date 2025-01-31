@@ -38,7 +38,7 @@
 Звёздные войны - Сказания о джедаях (Tales of the Jedi) - 1 - 0 (Red Head Sound)
 Звёздные войны - Сказания об Империи (Star Wars - Tales of the Empire) - 1 - 0 (LostFilm)
 Звёздный путь - Вундеркинды (Star Trek - Prodigy) - 1 - 0 (LostFilm)
-Звёздный путь - Дискавери (Star Trek - Discovery) - 5 - 4 (LostFilm)
+Звёздный путь - Дискавери (Star Trek - Discovery) - 5 - 5 (LostFilm)
 Звёздный путь - Нижние палубы (Star Trek - Lower Decks) - 2 - 4 (LostFilm)
 Звёздный путь - Пикар (Star Trek - Picard) - 2 - 10 (полный сезон) (LostFilm)
 Звёздный путь - Странные новые миры (Star Trek - Strange New Worlds) - 1 - 10 (полный сезон) (LostFilm)
@@ -114,7 +114,7 @@
 9-1-1 (9-1-1) 3 - 17 (LostFilm)
 Берег москитов (The Mosquito Coast) - 1 - 7 (AlexFilm)
 В Филадельфии всегда солнечно (It's Always Sunny in Philadelphia) - 16 - 8 (полный сезон) (LostFilm)
-Голубая кровь (Blue Bloods) - 13 - 21 (полный сезон) (kiitos или BaibaKo)
+Голубая кровь (Blue Bloods) - 14 - 2 (kiitos или BaibaKo или TVShows)
 Город хищниц (Cougar Town) 3 - 3
 Гранд тур (The Grand Tour) - 5 - 3 (AlexFilm)
 Звёздные войны - Бракованная партия (Star Wars - The Bad Batch) - 2 - 16 (полный сезон) (AlexFilm)
