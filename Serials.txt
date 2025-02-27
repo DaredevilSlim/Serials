@@ -39,7 +39,7 @@
 Звёздные войны - Сказания об Империи (Star Wars - Tales of the Empire) - 1 - 0 (LostFilm)
 Звёздный путь - Вундеркинды (Star Trek - Prodigy) - 1 - 0 (LostFilm)
 Звёздный путь - Дискавери (Star Trek - Discovery) - 5 - 5 (LostFilm)
-Звёздный путь - Нижние палубы (Star Trek - Lower Decks) - 2 - 6 (LostFilm)
+Звёздный путь - Нижние палубы (Star Trek - Lower Decks) - 2 - 9 (LostFilm)
 Звёздный путь - Пикар (Star Trek - Picard) - 2 - 10 (полный сезон) (LostFilm)
 Звёздный путь - Странные новые миры (Star Trek - Strange New Worlds) - 1 - 10 (полный сезон) (LostFilm)
 Здравствуй, будущее! (Hello Tomorrow!) 1 - 0 (Iyuno-SDI Group)
@@ -128,6 +128,7 @@
 Растущая Надежда (Raising Hope) 3 - 4
 Резкие козырьки (Peaky Blinders) - 5 - 6 (полный сезон) (Кубик в Кубе)
 Рик и Морти (Rick and Morty) - 7 - 10 (полный сезон) (Сыендук)
+Сенна (Senna) - 1 - 3 (Digi Media)
 Снегопад (Snowfall) - 3 - 10 (полный сезон) (Кубик в Кубе)
 Солнечные противоположности (Solar Opposites) - 1 - 8 (полный сезон) (NewStudio)
 Счастливый конец (Happy Endings) 2 - 9 (Fox Life)
