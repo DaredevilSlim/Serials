@@ -44,9 +44,9 @@
 Звёздный путь - Пикар (Star Trek - Picard) - 2 - 10 (полный сезон) (LostFilm)
 Звёздный путь - Странные новые миры (Star Trek - Strange New Worlds) - 1 - 10 (полный сезон) (LostFilm)
 Карнивал Роу (Carnival Row) - 1 - 8 (полный сезон) (Кубик в Кубе)
-Киностудия (The Studio) - 1 - 0 (Кубик в Кубе)
+Киностудия (The Studio) - 1 - 2 (Кубик в Кубе)
 Космические войска (Space Force) - 1 - 10 (полный сезон) (Кубик в Кубе)
-Крапополис (Krapopolis) - 1 - 20 (TVShows)
+Крапополис (Krapopolis) - 1 - 22 (TVShows)
 Крепкий Харт (Die Hart) - 1 - 10 (полный сезон) (LostFilm)
 КьюАй. Весьма интересно (QI. Quite Interesting) - 4 - 13 (полный сезон) (Ozz)
 Легенда Вокс Машины (The Legend of Vox Machina) - 1 - 0 (Flarrow Films)
@@ -132,7 +132,7 @@
 Флэш (The Flash) - 3 - 23 (полный сезон) (NewStudio)
 Франклин и Бэш (Franklin & Bash) 2 - 8 (SET)
 Хилы (Heels) - 1 - 10 (полный сезон) (AlexFilm)
-Чужой - Земля (Alien - Earth) - 1 - 1 (Кубик в Кубе)
+Чужой - Земля (Alien - Earth) - 1 - 2 (Кубик в Кубе)
 
 
 
